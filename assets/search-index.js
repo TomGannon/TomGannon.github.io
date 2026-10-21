@@ -14,7 +14,7 @@ window.SITE_SEARCH = [
   {
     "title": "Tom Gannon",
     "page": "Home",
-    "text": "Here is a copy of my CV. It was last updated September 2026.",
+    "text": "Here is a copy of my CV. It was last updated October 2026.",
     "url": "index.html#entry-3"
   },
   {
